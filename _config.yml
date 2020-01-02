@@ -22,7 +22,6 @@ description: A collection of thoughts
 navbar-links:
   About Me: "aboutme"
   CV: ""
-  Author's home: "http://deanattali.com"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
@@ -68,7 +67,7 @@ social-network-links:
   rss: true
   email: "jack.cripps@hotmail.co.uk"
   github: j-cripps
-  linkedin: linkedin.com/in/jackcripps
+  linkedin: jackcripps
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
